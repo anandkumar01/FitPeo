@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-24T14:15:01 IST" name="Suite" finished-at="2024-11-24T14:15:10 IST" duration-ms="9487">
+    <groups>
+    </groups>
+    <test started-at="2024-11-24T14:15:01 IST" name="Test" finished-at="2024-11-24T14:15:10 IST" duration-ms="9487">
+      <class name="testCase.FitPeoCase">
+        <test-method is-config="true" signature="initializeBrowser(java.lang.String)[pri:0, instance:testCase.FitPeoCase@7dcf94f8]" started-at="2024-11-24T14:15:01 IST" name="initializeBrowser" finished-at="2024-11-24T14:15:05 IST" duration-ms="4543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="testRevenueCalcLink()[pri:1, instance:testCase.FitPeoCase@7dcf94f8]" started-at="2024-11-24T14:15:05 IST" name="testRevenueCalcLink" finished-at="2024-11-24T14:15:05 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRevenueCalcLink -->
+        <test-method signature="slideRavenueCalc()[pri:2, instance:testCase.FitPeoCase@7dcf94f8]" started-at="2024-11-24T14:15:05 IST" name="slideRavenueCalc" finished-at="2024-11-24T14:15:07 IST" duration-ms="1735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slideRavenueCalc -->
+        <test-method signature="testAdjustSlider()[pri:3, instance:testCase.FitPeoCase@7dcf94f8]" started-at="2024-11-24T14:15:07 IST" name="testAdjustSlider" finished-at="2024-11-24T14:15:08 IST" duration-ms="891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdjustSlider -->
+        <test-method signature="testUpdatedPatients()[pri:4, instance:testCase.FitPeoCase@7dcf94f8]" started-at="2024-11-24T14:15:08 IST" name="testUpdatedPatients" finished-at="2024-11-24T14:15:09 IST" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdatedPatients -->
+        <test-method signature="testCheckbox()[pri:5, instance:testCase.FitPeoCase@7dcf94f8]" started-at="2024-11-24T14:15:09 IST" name="testCheckbox" finished-at="2024-11-24T14:15:10 IST" duration-ms="1230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckbox -->
+        <test-method signature="testTotalReimbursement()[pri:6, instance:testCase.FitPeoCase@7dcf94f8]" started-at="2024-11-24T14:15:10 IST" name="testTotalReimbursement" finished-at="2024-11-24T14:15:10 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTotalReimbursement -->
+      </class> <!-- testCase.FitPeoCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
