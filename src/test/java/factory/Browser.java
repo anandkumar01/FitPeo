@@ -7,6 +7,7 @@ import java.util.Properties;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
@@ -52,7 +53,7 @@ public class Browser {
 		return driver;
 	}
 
-//	@AfterClass
+	@AfterClass
 	public void closeBrowser() {
 		if (driver != null) {
 			System.out.println("\nClosing the browser session..");
