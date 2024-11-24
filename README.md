@@ -8,7 +8,7 @@
 
 To execute the project and obtain the expected output, please follow the steps below:
     1. Clone the repository to your local machine.
-        command: ```git clone "https://github.com/anandkumar01/FitPeoPage.git```
+        command: ```git clone "https://github.com/anandkumar01/FitPeo.git```
     2. Open the project in you prefered IDE eg. Eclipse.
     3. Install TestNG plugin in your local machine.
     4. Open the testng.xml file
